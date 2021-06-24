@@ -3,3 +3,5 @@ Tutorial para aprender a usar GitHub
 El primer ejercicio sobre github
 
 Esta línea se realizó en la versión web, mediante la instrucción pull se verificarán los cambios en terminal
+
+Esta línea se hace mediante la versión web para demostrar la funcionalidad de GitHub Desktop
